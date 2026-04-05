@@ -1,23 +1,23 @@
 # MARLAls
 Multi-Agent System Reinforcement Learning Algorithms
 
-#### Markov Decision Process(MDP)
+#### 1. Markov Decision Process(MDP)
 
-#### Q-Learning
+#### 2. Q-Learning
 
-#### Proximal Policy Optimization(PPO)
+#### 3. Proximal Policy Optimization(PPO)
 
-#### Multi-Agent Proximal Policy Optimization(MAPPO)
+##### 3.1 Multi-Agent Proximal Policy Optimization(MAPPO)
 
-#### Multi-Agent Actor-Critic(MAAC)
+#### 4. Multi-Agent Actor-Critic(MAAC)
 
-#### Multi-Agent Deep Deterministic Policy Gradient(MADDPG)
+##### 4.1 Multi-Agent Deep Deterministic Policy Gradient(MADDPG)
 
-#### Multi-Agent Deep Q-Network(MADQN)
-##### Deep Q-Network(DQN)
-##### Double DQN
-##### Dueling DQN
-##### Prioritized Experience Replay
+#### 5. Multi-Agent Deep Q-Network(MADQN)
+##### 5.1 Deep Q-Network(DQN)
+##### 5.2 Double DQN
+##### 5.3 Dueling DQN
+##### 5.4 Prioritized Experience Replay
 
 
 
